@@ -1,0 +1,7 @@
+{
+  "name": "Vision3D: Character Architect",
+  "description": "An AI-powered application that analyzes character images and generates detailed 3D modeling blueprints and interactive previews using Gemini and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
